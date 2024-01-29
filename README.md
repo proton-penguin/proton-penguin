@@ -36,3 +36,17 @@
       </a>
   </div>  
 </div>
+
+<div>
+  <h1>
+    I Use
+  </h1>
+  <div>
+    <a href=""><img src="https://img.shields.io/badge/Alpine-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" /></a>
+    <a href=""><img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" alt="LineageOS" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  </div>
+</div>
