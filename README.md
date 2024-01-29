@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=64A4FF&background=FFFFFF00&center=false&vCenter=true&random=false&height=40&lines=Hi%2C+my+name+is+Kevin.;I'm+a+full+time+Linux+user.;Currently+learning+Javascript." alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=64A4FF&background=FFFFFF00&center=false&vCenter=true&random=false&height=40&lines=Hi%2C+my+name+is+Kevin.;I'm+a+full+time+Linux+user.;Currently+learning+Javascript." alt="Typing SVG" /></a>
 </div>
 
 <div>
@@ -48,5 +48,17 @@
     <a href=""><img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" alt="LineageOS" /></a>
     <a href=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
     <a href=""><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  </div>
+   <h1>
+    I Write
+  </h1>
+  <div>
+    <a href=""><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+    <a href=""><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+    <a href=""><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+    <a href=""><img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
+    <a href=""><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
+    <a href=""><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>
+    
   </div>
 </div>
